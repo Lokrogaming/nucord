@@ -1,6 +1,6 @@
-# Discord Clone Demo
+# Nucord Demo {-- By Nucore --}
 
-A high-fidelity, frontend-only Discord clone built with Next.js 14, Tailwind CSS, and Zustand.
+A high-fidelity, frontend-only Nucord built with Next.js 14, Tailwind CSS, and Zustand.
 
 ## 🚀 Quick Start
 
