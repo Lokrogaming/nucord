@@ -45,3 +45,7 @@ A high-fidelity, frontend-only Nucord built with Next.js 14, Tailwind CSS, and Z
 2. **Chat**: Send a message in `#general`.
 3. **Switch Servers**: Use the left sidebar to jump between "Project Alpha" and "UI/UX Design".
 4. **Reset**: Use the "Reset" button to clear all data and restart the demo.
+
+# LICENSE
+
+<a href="https://github.com/Lokrogaming/nucord">Nucord</a> © 2026 by <a href="https://github.com/Lokrogaming">Lokrogamer, NuCore Development, Andrew Vikuk</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
